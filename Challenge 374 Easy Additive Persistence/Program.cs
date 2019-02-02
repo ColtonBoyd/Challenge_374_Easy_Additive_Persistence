@@ -14,13 +14,13 @@ namespace Challenge_374_Easy_Additive_Persistence
         static void Main(string[] args)
         {
             #region Long Code
-            int[] InputArray = new int[4] { 9876, 13, 1234, 199 };
+            int[] InputArray = new int[4] { 13,1234, 9876, 199 };
             //For each challenge number call the GetAdditiveIterations method passing it the challenge number
             //After the additive persistance has been calculated print the number of iterations required then reset the iterations for the next challenge number
             foreach (var item in InputArray)
             {
                 GetAdditiveIterations(item);
-                Console.WriteLine(Iterations);
+                Console.WriteLine($"{item} -> {Iterations}");
                 Iterations = 0;
             }
             #endregion
@@ -49,10 +49,10 @@ namespace Challenge_374_Easy_Additive_Persistence
                     n = Sum;
                     Iterations++;
                 }
-                Console.WriteLine(Iterations);
+                Console.WriteLine($"{item} -> {Iterations}");
             }
             #endregion
-            Console.Read();
+            Console.ReadKey();
         }
 
 
