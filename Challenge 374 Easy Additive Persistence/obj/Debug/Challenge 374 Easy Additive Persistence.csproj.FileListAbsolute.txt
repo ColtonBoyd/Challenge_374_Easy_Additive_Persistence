@@ -1,0 +1,7 @@
+D:\Projects\Repos\Challenge 374 Easy Additive Persistence\Challenge 374 Easy Additive Persistence\bin\Debug\Challenge 374 Easy Additive Persistence.exe.config
+D:\Projects\Repos\Challenge 374 Easy Additive Persistence\Challenge 374 Easy Additive Persistence\bin\Debug\Challenge 374 Easy Additive Persistence.exe
+D:\Projects\Repos\Challenge 374 Easy Additive Persistence\Challenge 374 Easy Additive Persistence\bin\Debug\Challenge 374 Easy Additive Persistence.pdb
+D:\Projects\Repos\Challenge 374 Easy Additive Persistence\Challenge 374 Easy Additive Persistence\obj\Debug\Challenge 374 Easy Additive Persistence.csprojAssemblyReference.cache
+D:\Projects\Repos\Challenge 374 Easy Additive Persistence\Challenge 374 Easy Additive Persistence\obj\Debug\Challenge 374 Easy Additive Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\Repos\Challenge 374 Easy Additive Persistence\Challenge 374 Easy Additive Persistence\obj\Debug\Challenge 374 Easy Additive Persistence.exe
+D:\Projects\Repos\Challenge 374 Easy Additive Persistence\Challenge 374 Easy Additive Persistence\obj\Debug\Challenge 374 Easy Additive Persistence.pdb
